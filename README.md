@@ -5,7 +5,7 @@
 npm install case_converter
 ```
  ## Usage
-\`\`\`js
+
 const caseConverter = require("./index");
 const str = "hello free Code Camp!";
 console.log(caseConverter.getUpperCase(str)); // HELLO FREE CODE CAMP!
